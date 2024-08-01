@@ -4,20 +4,22 @@
 
 .top-navigation {
     width: 100%;
-
     font-size: 30px;
     border: 1px solid black;
-
-    
+    overflow: hidden;
 }
 
 .top-navigation a{
-    
+    font-size: 30px;
     color: rgb(64,64,64);
     text-decoration: none;
-    width: 100%;
-    /* overflow: visible;
-    display: flex; */
+    float: left;
+    text-align: center;
+    padding: 5px;
+    margin: auto;
+    text-decoration: none;
+    text-align: center
+ 
    
 
     
