@@ -4,8 +4,10 @@
 
 .top-navigation {
     width: 100%;
+
     font-size: 30px;
     border: 1px solid black;
+
     
 }
 
@@ -14,6 +16,9 @@
     color: rgb(64,64,64);
     text-decoration: none;
     width: 100%;
+    /* overflow: visible;
+    display: flex; */
+   
 
     
 }
