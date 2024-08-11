@@ -5,7 +5,7 @@
 .top-navigation{
     width:800px;
     height: 60px;
-    font:bold 0/50px Arial;
+    /* font:bold 0/50px Arial; */
     text-align:center;
     margin:40px auto 0;
     /* background:#ebebeb; */
@@ -21,7 +21,7 @@
     display:inline-block;
     padding:0 16px;
     font-size: 30px;
-    list-style: none outside none;
+    /* list-style: none outside none; */
   }
   .top-navigation a:hover{
     color: rgba(10,10,10,0.5);
@@ -96,13 +96,21 @@ nav.home-navigation a:link {
 }
 
 .social-links {
-    position: relative;
+    /* position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
     z-index: 1;
-    margin-top: 50px;
+    margin-top: 50px; */
+    
+    width:800px;
+    height: 60px;
+    /* font:bold 0/50px Arial; */
+    text-align:center;
+    margin:40px auto 0;
+    /* background:#ebebeb; */
+    border-radius: 8px; 
 
 }
 
@@ -122,20 +130,20 @@ nav.home-navigation a:link {
 
 footer {
     font-size:25px;
-    width:500px;
-    height: 30px;
-    margin-top: 70px;
-    margin-left: 690px;
-    padding: 10px;
-    text-align: center;
-    flex: left;
     color: rgb(64,64,64);
+    width:800px;
+    height: 60px;
+    /* font:bold 0/50px Arial; */
+    text-align:center;
+    margin:40px auto 0;
+    /* background:#ebebeb; */
+    border-radius: 8px; 
+
 }
 
 footer span {
-    margin: 10px;
-    padding: 10px;
-    text-align: center;
+    position:relative;
+    display:inline-block;
 }
 
 
