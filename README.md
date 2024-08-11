@@ -1,2 +1,2 @@
 # Personal website/template for everyone. 
-Under construction.
+Build from scratch and is still Under construction.
