@@ -45,10 +45,6 @@
     margin: auto;
     text-decoration: none;
     text-align: center
- 
-   
-
-    
 }
 
 .top-navigation a:hover {
@@ -63,7 +59,8 @@ nav.home-navigation {
     flex-wrap: wrap;                                            
     z-index: 1;
     margin-top: 100px;
-}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+    
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             */ */
 
 nav.home-navigation a {
     color: #fff;
@@ -75,7 +72,7 @@ nav.home-navigation a {
     border-radius: 15px;
     box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
     overflow: hidden;
-    display: block;
+    display: flex;
     
     justify-content: center;
     align-items: center;
