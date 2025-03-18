@@ -12,11 +12,8 @@
     border-radius: 8px;   
   }
   .top-navigation a{
-    
     color:rgb(64,64,64);
     text-decoration: none;
-  }
-  .top-navigation a{
     position:relative;
     display:inline-block;
     padding:0 16px;
